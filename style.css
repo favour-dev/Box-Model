@@ -61,12 +61,12 @@ img{
     width: 100%;
 }
 .mic-img{
-    width: 10%;
+    width: 5%;
     margin-top: 10px;
     display: inline-block;
 }
 .speak{
-    vertical-align: 15px;
+    vertical-align: 10px;
     font-style: italic;
     font-size: 10px;
 }
@@ -75,4 +75,8 @@ button{
   background-color: black; 
   padding: 5px 10px; 
   border-radius: 10px;
+}
+p{
+    width: 50%;
+    padding: 10px 0;
 }
